@@ -1,0 +1,4 @@
+nextcord
+Pillow
+pyzbar
+python-dotenv
