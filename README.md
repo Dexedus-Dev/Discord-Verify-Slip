@@ -51,8 +51,8 @@ pip install nextcord requests pillow pyzbar
 
 1. **ดาวน์โหลดไฟล์บอท**
    ```bash
-   git clone <repository-ของคุณ>
-   cd discord-slip-bot
+   git clone https://github.com/Dexedus-Dev/Discord-Verify-Slip.git
+   cd Discord-Verify-Slip
    ```
 
 2. **ติดตั้ง dependencies**
